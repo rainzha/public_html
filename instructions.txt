@@ -10,3 +10,4 @@
 10.对文件进行重命名git mv [file1] [file2] & git commit -m
 11.创建版本库副本git clone [name1] [name2]
 12.查看提交差异，工作区、暂存区、版本库之间git diff-工作区与暂存区的差异/git diff HEAD-工作区与版本库的差异/git diff --cached-暂存区与版本库的差异
+13.添加忽略文件.gitignore
