@@ -1,0 +1,9 @@
+1.初始化仓库git init
+2.查看仓库状态git status/git status -s
+3.添加文件到暂存区git add/git add .
+4.提交更改git commit -m
+5.用户及Email配置git config user.name 'rainzha'/git config user.email 'rainzha@163.com'
+6.修改后再提交git commit -m
+7.查看提交日志git log/git show [commit]/git show-branch --more=10
+8.查看提交差异git diff [commit1] [commit2]
+9.版本库内文件的删除和重命名git rm poem.html
