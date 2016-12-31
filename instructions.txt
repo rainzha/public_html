@@ -14,3 +14,4 @@
 14.创建分支、列出分支名、查看分支git branch [name]/git branch [name] [start-commit]/git branch/git show-branch
 15.检出分支git checkout [branchname]/git checkout -m [branchname]
 16.分离HEAD分支、删除分支git checkout [commit/tag]/git branch -d [branchname]/git branch -D [branchname]
+17.分支合并，冲突合并、检出、处理
