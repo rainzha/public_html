@@ -12,3 +12,4 @@
 12.查看提交差异，工作区、暂存区、版本库之间git diff-工作区与暂存区的差异/git diff HEAD-工作区与版本库的差异/git diff --cached-暂存区与版本库的差异
 13.添加忽略文件.gitignore
 14.创建分支、列出分支名、查看分支git branch [name]/git branch [name] [start-commit]/git branch/git show-branch
+15.检出分支git checkout [branchname]/git checkout -m [branchname]
