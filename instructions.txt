@@ -16,3 +16,4 @@
 16.分离HEAD分支、删除分支git checkout [commit/tag]/git branch -d [branchname]/git branch -D [branchname]
 17.分支合并，冲突合并、检出、处理
 18.使用git reset --soft影响版本库、--mixed影响版本库及暂存区(默认方式)、--hard影响版本库、暂存区、工作区(注：小心使用此命令会造成未提交的更改丢失)
+19.储藏git stash sace "message"/git stash pop/git stash list
